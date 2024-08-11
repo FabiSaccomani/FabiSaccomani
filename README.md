@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Olá, Meu nome é Fabiana sou formada em Cibersegurança e no momento estou estudando linguagem de programação.
+Olá, Meu nome é Fabiana sou formada em Cibersegurança e no momento estou estudando linguagem de programação, Pretendo mudar de carreira e atuar na área de TI.
 
 ## Conecte-se comigo
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabiana_saccomani/)
